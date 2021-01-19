@@ -1,4 +1,4 @@
-<h2><B><i>Stock Prediction using Financial News Sentiment Analysis and Time Series Forecasting</i></B></h2>
+<h3><B><i>Stock Prediction using Financial News Sentiment Analysis and Time Series Forecasting</i></B></h3>
 
 ## Project Proposal:
 https://codelabs-preview.appspot.com/?file_id=1TyFR1jlvE59nKuilDi-f81CGV9NqJZscQYVdNB1wxhE#0
