@@ -1,0 +1,19 @@
+﻿Category_ID,Category,Company_ID,Company,Market,Ticker
+1,Airline,1,Delta Air Lines,NYSE,DAL
+1,Airline,2,Southwest Airlines,NYSE,LUV
+1,Airline,3,United Airlines Holdings,NASDAQ,UAL
+2,Tourism,4,Booking.com,NASDAQ,BKNG
+2,Tourism,5,Expedia,NASDAQ,EXPE
+2,Tourism,6,TripAdvisor,NASDAQ,TRIP
+3,Social Media,7,Facebook,NASDAQ,FB
+3,Social Media,8,Twitter,NYSE,TWTR
+3,Social Media,9,Snapchat,NYSE,SNAP
+4,Healthcare,10,Johnson & Johnson,NYSE,JNJ
+4,Healthcare,11,Pfizer,NYSE,PFE
+4,Healthcare,12,UnitedHealth Group,NYSE,UNH
+5,E-commerce,13,Amazon,NASDAQ,AMZN
+5,E-commerce,14,E-Bay,NASDAQ,EBAY
+5,E-commerce,15,Walmart,NYSE,WMT
+6,Fast Food,16,McDonald's,NYSE,MCD
+6,Fast Food,17,Starbucks,NASDAQ,SBUX
+6,Fast Food,18,Taco Bell,NYSE,YUM
