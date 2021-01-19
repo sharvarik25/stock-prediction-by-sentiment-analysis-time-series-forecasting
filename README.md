@@ -1,5 +1,7 @@
 <h3><B><i>Stock Prediction using Financial News Sentiment Analysis and Time Series Forecasting</i></B></h3>
 
+Designed a robust ETL pipeline architecture leveraging AWS Services (S3, Glue, Redshift, Comprehend, Forecast) which scraped the news articles to find the impact of these articles on the stock price trends and forecast the price for the next two months using Power BI
+
 ## Project Proposal:
 https://codelabs-preview.appspot.com/?file_id=1TyFR1jlvE59nKuilDi-f81CGV9NqJZscQYVdNB1wxhE#0
 
